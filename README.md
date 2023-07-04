@@ -1,2 +1,3 @@
-# Retro-Blade
-Retro Blade is one of the first projects, I built in my career. It is base on 90s Nintendo games. It is an 2D game. The main characters shoot projectiles (Sword) and has four hp.
+version https://git-lfs.github.com/spec/v1
+oid sha256:986f5357a91ab6a81bc3a3b1df4e9f526d63dae76aa461348183d50e8f5a189b
+size 193
